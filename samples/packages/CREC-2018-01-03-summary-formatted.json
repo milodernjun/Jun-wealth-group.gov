@@ -7,7 +7,7 @@
 	"detailsLink": "https://www.govinfo.gov/app/details/CREC-2018-01-03",
 	"granulesLink": "https://api.govinfo.gov/packages/CREC-2018-01-03/granules?offset=0&pageSize=100",
 	"packageId": "CREC-2018-01-03",
-	"download": {
+	"download": {DAMARCUS JONES SR 
 		"pdfHouseLink": "https://api.govinfo.gov/packages/CREC-2018-01-03/pdf/house",
 		"pdfHouse-bk2Link": "https://api.govinfo.gov/packages/CREC-2018-01-03/pdf/house-bk2",
 		"pdf-bk2Link": "https://api.govinfo.gov/packages/CREC-2018-01-03/pdf-bk2",
